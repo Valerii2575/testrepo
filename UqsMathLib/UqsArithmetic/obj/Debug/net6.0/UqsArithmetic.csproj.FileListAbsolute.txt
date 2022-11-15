@@ -1,0 +1,12 @@
+/Users/valeriiosypenko/Programming/PragmaticTDD/testrepo/UqsMathLib/UqsArithmetic/bin/Debug/net6.0/UqsArithmetic.deps.json
+/Users/valeriiosypenko/Programming/PragmaticTDD/testrepo/UqsMathLib/UqsArithmetic/bin/Debug/net6.0/UqsArithmetic.dll
+/Users/valeriiosypenko/Programming/PragmaticTDD/testrepo/UqsMathLib/UqsArithmetic/bin/Debug/net6.0/UqsArithmetic.pdb
+/Users/valeriiosypenko/Programming/PragmaticTDD/testrepo/UqsMathLib/UqsArithmetic/obj/Debug/net6.0/UqsArithmetic.csproj.AssemblyReference.cache
+/Users/valeriiosypenko/Programming/PragmaticTDD/testrepo/UqsMathLib/UqsArithmetic/obj/Debug/net6.0/UqsArithmetic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/valeriiosypenko/Programming/PragmaticTDD/testrepo/UqsMathLib/UqsArithmetic/obj/Debug/net6.0/UqsArithmetic.AssemblyInfoInputs.cache
+/Users/valeriiosypenko/Programming/PragmaticTDD/testrepo/UqsMathLib/UqsArithmetic/obj/Debug/net6.0/UqsArithmetic.AssemblyInfo.cs
+/Users/valeriiosypenko/Programming/PragmaticTDD/testrepo/UqsMathLib/UqsArithmetic/obj/Debug/net6.0/UqsArithmetic.csproj.CoreCompileInputs.cache
+/Users/valeriiosypenko/Programming/PragmaticTDD/testrepo/UqsMathLib/UqsArithmetic/obj/Debug/net6.0/UqsArithmetic.dll
+/Users/valeriiosypenko/Programming/PragmaticTDD/testrepo/UqsMathLib/UqsArithmetic/obj/Debug/net6.0/refint/UqsArithmetic.dll
+/Users/valeriiosypenko/Programming/PragmaticTDD/testrepo/UqsMathLib/UqsArithmetic/obj/Debug/net6.0/UqsArithmetic.pdb
+/Users/valeriiosypenko/Programming/PragmaticTDD/testrepo/UqsMathLib/UqsArithmetic/obj/Debug/net6.0/ref/UqsArithmetic.dll
